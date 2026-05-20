@@ -68,7 +68,7 @@ I'm an analytical scientist with a **PhD in Pharmaceutical Engineering** and 5+ 
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-tasnim-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-tasnim-ahmed-m-pharm-ms-phd-5a5ab4285/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://nadiatasnimahmed.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nadiatasnimahmed879@gmail.com)
 
