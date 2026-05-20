@@ -74,4 +74,4 @@ I'm an analytical scientist with a **PhD in Pharmaceutical Engineering** and 5+ 
 
 ---
 
-*Currently applying to the MS in Data Science program at UT Austin to formalize and extend my computational skills at the intersection of pharmaceutical science and machine learning.*
+*Pharmaceutical data scientist at the intersection of analytical chemistry, mass spectrometry, and machine learning.*
